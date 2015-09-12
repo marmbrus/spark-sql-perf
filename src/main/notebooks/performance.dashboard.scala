@@ -1,6 +1,8 @@
 // Databricks notebook source exported at Fri, 11 Sep 2015 06:27:08 UTC
 import com.databricks.spark.sql.perf._
 
+// ali was here
+
 import org.apache.spark.sql._
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.expressions._
